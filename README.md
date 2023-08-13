@@ -9,3 +9,8 @@ unproductive if you are in the middle of important work. Moreover, every time yo
 check the score of your favorite team and if you want to enjoy the special events like SIX, 
 FOUR and OUT, you have to manually share it via a messaging app. But now, we had made a 
 better solution for the millions of sports fans.
+
+
+
+![Screenshot_20230807_101925](https://github.com/Sahilp44/Cricket-score-alerts/assets/141580327/ae01d597-7a63-43fb-aa66-83ad13f631ae)
+
